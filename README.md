@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samitamerarar
 - 👀 I’m interested in Salesforce, Javascript, ReactJS and Full Stack development
-- 🌱 I’m currently learning Salesforce
+- 🌱 I’m currently working with Salesforce ecosystem
 - 💞️ I’m looking to collaborate on -
 - 📫 How to reach me -
 
