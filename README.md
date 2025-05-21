@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samitamerarar
-- 👀 I’m interested in optimizing operations and enhancing productivity 🚀
+- 👀 I’m interested in optimizing business operations and enhancing productivity 🚀
 - 🌱 I’m currently working with Salesforce, Oracle Netsuite and AWS Technologies ☁️
 - 💞️ I’m looking to collaborate on a great business idea 🙄
 - 📫 Checkout my [website](https://www.samiarar.com) 👀
