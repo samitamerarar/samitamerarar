@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @samitamerarar
-- 👀 I’m interested in Salesforce, Oracle Netsuite, Javascript, Python & Amazon Web Services
-- 🌱 I’m currently working with Salesforce, Oracle Netsuite and AWS Technologies
-- 💞️ I’m looking to collaborate on -
-- 📫 How to reach me -
+- 👀 I’m interested in optimizing operations and enhancing productivity 🚀
+- 🌱 I’m currently working with Salesforce, Oracle Netsuite and AWS Technologies ☁️
+- 💞️ I’m looking to collaborate on a great business idea 🙄
+- 📫 Checkout my [website](samiarar.com) 👀
 
 <!---
 samitamerarar/samitamerarar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
